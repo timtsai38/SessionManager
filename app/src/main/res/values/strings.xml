@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SessionManager</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="male">♂</string>
+    <string name="female">♀</string>
+
+    <string name="item_sort_by_id">Sort by ID</string>
+    <string name="item_sort_by_name">Sort by Name</string>
+    <string name="item_sort_by_gender">Sort by Gender</string>
+    <string name="item_sort_by_age">Sort by Age</string>
+
+    <string name="message_add_member">Add Member</string>
+    <string name="message_ok">OK</string>
+    <string name="message_cancel">Cancel</string>
+
+    <string name="message_joined">has joined.</string>
+</resources>
